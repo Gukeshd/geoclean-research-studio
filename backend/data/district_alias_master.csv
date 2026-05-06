@@ -1,0 +1,10 @@
+state,original,standard,source,confidence
+Maharashtra,Thana,Thane,legacy census spelling,99
+Maharashtra,Bombay,Mumbai City,legacy census spelling,98
+Maharashtra,Mumbai Suburb,Mumbai Suburban,common abbreviation,98
+Maharashtra,Mumbai Suburban District,Mumbai Suburban,common suffix,98
+Karnataka,Banglore,Bengaluru Urban,common misspelling,97
+Karnataka,Bangalore Urban,Bengaluru Urban,renamed district,97
+Assam,Kamrup Metro,Kamrup Metropolitan,common abbreviation,96
+Kerala,Trivandrum,Thiruvananthapuram,legacy name,96
+Tamil Nadu,Madras,Chennai,legacy city district name,95

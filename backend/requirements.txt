@@ -1,0 +1,24 @@
+fastapi==0.136.1
+uvicorn==0.46.0
+pandas==3.0.2
+numpy==2.4.4
+openpyxl==3.1.5
+python-multipart==0.0.27
+chardet==7.4.3
+reportlab==4.5.0
+python-docx==1.2.0
+SQLAlchemy==2.0.45
+alembic==1.17.2
+rapidfuzz==3.14.3
+scikit-learn==1.8.0
+psycopg[binary]==3.3.2
+asyncpg==0.31.0
+PyJWT==2.10.1
+passlib==1.7.4
+
+# Optional geospatial extras for full GIS/LULC deployments:
+# geopandas
+# rasterio
+# folium
+# earthengine-api
+# xarray
