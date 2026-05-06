@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GeoClean Research Studio
 
 Professional AI-powered research data cleaning and harmonization web application for dissertation, thesis, GIS, NFHS, Census, NSSO, public health, socio-economic, food security, and spatial datasets.
@@ -109,3 +110,6 @@ The compose stack includes frontend, backend, PostgreSQL, and nginx.
 ## API
 
 FastAPI docs are available at http://127.0.0.1:8000/docs after starting the backend.
+=======
+# geoclean-research-studio
+>>>>>>> 1d80389ccb8ffbd07b898068483553fdcf50283c
